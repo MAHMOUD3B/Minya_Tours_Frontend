@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "image": "beni_mazar/1.jpeg",
+    "title": "Geographical Location",
+    "description": "Located west of Bani Mazar in Minya Governorate, Al-Bahnasa spans a vast area surrounded by fertile agricultural lands."
+  },
+  {
+    "id": 2,
+    "image": "beni_mazar/2.jpeg",
+    "title": "Historical Significance",
+    "tips": [
+      {
+        "one": "Al-Bahnasa was a great city in the Pharaonic era, known as 'Per Ihnas.'"
+      },
+      {
+        "two": "It witnessed various civilizations, from the Pharaonic era to the Islamic period, making it a site rich in historical artifacts."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "beni_mazar/3.jpeg",
+    "title": "The Land of Martyrs",
+    "tips": [
+      {
+        "one": "Al-Bahnasa is called 'The Land of Martyrs' because it witnessed the martyrdom of many companions of the Prophet (peace be upon him) during the Islamic conquest of Egypt."
+      },
+      {
+        "two": "It is said that over 5,000 companions and followers were martyred in Al-Bahnasa, and it is believed that some of them are buried there."
+      },
+      {
+        "three": "The area contains numerous shrines and tombs of prominent Islamic figures."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "beni_mazar/4.jpeg",
+    "title": "Archaeological Landmarks",
+    "landmarks": [
+      {
+        "title": "Martyrs' Tombs:",
+        "description": [
+          {
+            "one": "A collection of shrines and tombs attributed to the companions of the Prophet (peace be upon him), such as the tomb of 'Harba bin Al-Harith'."
+          }
+        ]
+      },
+      {
+        "title": "Islamic Domes:",
+        "description": [
+          {
+            "one": "Dating back to the Islamic era, they are among the most prominent landmarks of Al-Bahnasa."
+          }
+        ]
+      },
+      {
+        "title": "Pharaonic Ruins:",
+        "description": [
+          {
+            "one": "The site includes remains of Pharaonic temples, statues, and carvings."
+          }
+        ]
+      },
+      {
+        "title": "Coptic Antiquities:",
+        "description": [
+          {
+            "one": "Ancient churches and monasteries from the Coptic era can also be found here."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "beni_mazar/5.jpeg",
+    "title": "Archaeological Character",
+    "tips": [
+      {
+        "one": "The region features a unique blend of Islamic, Coptic, and Pharaonic artifacts, making it a destination for researchers and tourists."
+      },
+      {
+        "two": "Excavations have uncovered numerous ancient relics, such as decorated tombs and pottery pieces."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "beni_mazar/6.jpeg",
+    "title": "Tourism Importance",
+    "tips": [
+      {
+        "one": "Al-Bahnasa is a significant tourist destination for those interested in Islamic history and ancient artifacts."
+      },
+      {
+        "two": "The site attracts visitors from Egypt and abroad, especially during religious seasons."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "beni_mazar/7.jpeg",
+    "title": "How to Reach Al-Bahnasa",
+    "tips": [
+      {
+        "one": "It can be accessed from Minya city or Bani Mazar via local transportation."
+      },
+      {
+        "two": "Located approximately 200 kilometers south of Cairo, it is convenient for day trips."
+      }
+    ]
+  }
+]

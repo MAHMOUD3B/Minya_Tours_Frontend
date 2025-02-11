@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "image": "abo_qarqas/1.jpeg",
+    "title": "Geographical Location",
+    "description": "The Beni Hasan tombs are located on the eastern bank of the Nile River, near the city of Abu Qirqas, south of Minya Governorate. They are about 20 kilometers south of Minya city."
+  },
+  {
+    "id": 2,
+    "image": "abo_qarqas/2.jpeg",
+    "title": "History",
+    "description": "Beni Hasan served as the main necropolis for the 16th nome of Upper Egypt during the Middle Kingdom. Most of the tombs belong to provincial rulers and high-ranking officials from that period. The tombs reflect the power and wealth enjoyed by these rulers."
+  },
+  {
+    "id": 4,
+    "image": "abo_qarqas/4.jpeg",
+    "title": "Historical Significance",
+    "tips": [
+      {
+        "one": "The tombs offer valuable insights into the lives of ancient Egyptians, particularly the ruling class in the provinces."
+      },
+      {
+        "two": "They document the relationships between the ancient Egyptians and neighboring peoples, especially through scenes showing foreign delegations."
+      },
+      {
+        "three": "They represent a remarkable example of engraving and painting art in ancient Egypt."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "abo_qarqas/5.jpeg",
+    "title": "Discovery and Excavation",
+    "tips": [
+      {
+        "one": "Excavations at Beni Hassan began in the 19th century, and archaeological studies at the site continue to this day."
+      },
+      {
+        "two": "Tools, jewelry, and small statues have been discovered within the tombs."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "abo_qarqas/6.jpeg",
+    "title": "Tourism in Beni Hasan Tombs",
+    "tips": [
+      {
+        "one": "The site is open to visitors and is considered one of the key tourist destinations in Minya Governorate."
+      },
+      {
+        "two": "Visiting with a tour guide is recommended to understand the paintings and inscriptions."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "abo_qarqas/7.jpeg",
+    "title": "How to Reach",
+    "description": "The site is easily accessible from Minya city by road or by train to Abu Qurqas, followed by local transportation to the site."
+  },
+  {
+    "id": 3,
+    "image": "abo_qarqas/3.jpeg",
+    "title": "Archaeological Features of Beni Hasan Tombs",
+    "landmarks": [
+      {
+        "title": "Tomb Design",
+        "description": [
+          {
+            "one": "The tombs are carved into rocky cliffs."
+          },
+          {
+            "two": "The entrances are adorned with rock-cut columns, leading to inner chambers containing coffins and wall paintings."
+          },
+          {
+            "three": "The inscriptions and paintings depict scenes from daily life, such as hunting, sports, and celebrations."
+          }
+        ]
+      },
+      {
+        "title": "Famous Tombs",
+        "description": [
+          {
+            "one": "Tomb of Khety: Belonged to the ruler of the 16th nome and features depictions of farming and hunting scenes."
+          },
+          {
+            "two": "Tomb of Baqet: Shows scenes of warfare and soldiers' training."
+          },
+          {
+            "three": "Tomb of Khnumhotep: Famous for its paintings of foreign delegations presenting gifts to the Egyptians, making it a standout feature of the necropolis."
+          },
+          {
+            "four": "Tomb of Amenemhat: Contains beautiful paintings illustrating daily life and celebrations."
+          }
+        ]
+      },
+      {
+        "title": "Paintings and Inscriptions",
+        "description": [
+          {
+            "one": "The inscriptions provide intricate details about the lives of ancient Egyptians, including clothing, tools, and daily activities."
+          },
+          {
+            "two": "These paintings are considered some of the finest examples of ancient Egyptian art from the Middle Kingdom."
+          }
+        ]
+      }
+    ]
+  }
+]

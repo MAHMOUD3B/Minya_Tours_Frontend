@@ -1,0 +1,22 @@
+// src/styles/custom-bootstrap.scss
+
+// الوظائف والمتغيرات الأساسية
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/maps";
+@import "../../node_modules/bootstrap/scss/mixins";
+
+// الشبكة (Row و Col)
+@import "../../node_modules/bootstrap/scss/grid";
+
+// الأزرار
+@import "../../node_modules/bootstrap/scss/buttons";
+
+// الكارد
+@import "../../node_modules/bootstrap/scss/card";
+
+// الكاروسيل
+@import "../../node_modules/bootstrap/scss/carousel";
+
+// (اختياري) الأنماط الأساسية
+@import "../../node_modules/bootstrap/scss/reboot";

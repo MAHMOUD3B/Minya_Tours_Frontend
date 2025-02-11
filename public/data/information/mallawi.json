@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "image": "mallawi/1.jpeg",
+    "title": "Geographical Location",
+    "description": "Tuna El-Gebel is located west of Mallawi City, on the western edge of the Nile Valley. It is characterized by its desert location, which contributed to the preservation of its archaeological remains."
+  },
+  {
+    "id": 2,
+    "image": "mallawi/2.jpeg",
+    "title": "Historical Significance",
+    "description": "Tuna El-Gebel served as the necropolis for the city of Hermopolis during the Greco-Roman period. It was renowned as a place dedicated to the worship of the god Thoth, the Egyptian deity of wisdom and writing."
+  },
+  {
+    "id": 4,
+    "image": "mallawi/4.jpeg",
+    "title": "Archaeological Discoveries",
+    "description": "Many artifacts have been unearthed, such as statues, mummies, and pottery. The site is a treasure trove of information about daily life and funerary customs in ancient Egypt."
+  },
+  {
+    "id": 5,
+    "image": "mallawi/5.jpeg",
+    "title": "Touristic Importance",
+    "description": "Tuna El-Gebel is a significant destination for history and archaeology enthusiasts. Visiting with a tour guide is recommended to understand the site's history and explore its key landmarks."
+  },
+  {
+    "id": 6,
+    "image": "mallawi/6.jpeg",
+    "title": "Visiting Tips",
+    "tips": [
+      {
+        "one": "Wear comfortable clothes and suitable shoes for walking in the desert environment."
+      },
+      {
+        "two": "Carry water and sunscreen to protect yourself from the sun during your visit."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "mallawi/3.jpeg",
+    "title": "Archaeological Landmarks in Tuna El-Gebel",
+    "landmarks": [
+      {
+        "title": "Catacombs",
+        "description": [
+          {
+            "one": "A network of underground passageways containing the tombs of sacred animals."
+          },
+          {
+            "two": "Houses mummified remains of a large number of sacred animals, such as baboons and the ibis bird, associated with the god Thoth."
+          }
+        ]
+      },
+      {
+        "title": "Petosiris Tomb",
+        "description": [
+          {
+            "one": "One of the most important and famous landmarks in Tuna El-Gebel."
+          },
+          {
+            "two": "Belonged to a high-ranking Egyptian priest named Petosiris who lived during the Ptolemaic period."
+          },
+          {
+            "three": "Features unique wall paintings combining traditional Egyptian style with Greek influence."
+          }
+        ]
+      },
+      {
+        "title": "Isadora Tomb",
+        "description": [
+          {
+            "one": "A tomb belonging to a Greek girl named Isadora, who lived in the 2nd century AD."
+          },
+          {
+            "two": "Distinguished by an emotional Greek poetic inscription narrating her story."
+          },
+          {
+            "three": "The tomb is remarkable in design and architecture."
+          }
+        ]
+      },
+      {
+        "title": "Funerary Wells",
+        "description": [
+          {
+            "one": "Contains deep wells that served as entrances to tombs or storage for mummies."
+          }
+        ]
+      },
+      {
+        "title": "Boundary Stelae and Sacred Inscriptions",
+        "description": [
+          {
+            "one": "The area contains boundary stelae that narrate the history of the site."
+          },
+          {
+            "two": "The carvings depict religious rituals and significant events from various eras."
+          }
+        ]
+      }
+    ]
+  }
+]

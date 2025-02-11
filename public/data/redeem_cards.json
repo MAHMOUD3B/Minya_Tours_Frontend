@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "points": 100,
+    "image": "./assets/images/mallawi/1.jpeg",
+    "title": "Tuna El-Gebel",
+    "description": "Enjoy an amazing experience at Tuna El-Gebel peak with stunning views and breathtaking nature. Redeem your points now!"
+  },
+  {
+    "id": 2,
+    "points": 150,
+    "image": "./assets/images/abo_qarqas/1.jpeg",
+    "title": "Beni Hassan tombs",
+    "description": "Explore the ancient Beni Hassan tombs and uncover the history of a remarkable era. Redeem your points now!"
+  },
+  {
+    "id": 3,
+    "points": 120,
+    "image": "./assets/images/samalot/1.jpeg",
+    "title": "Jabal Al-Tair",
+    "description": "You can discover the spiritual beauty of Jabal Al-Tair and its breathtaking scenery. Redeem your points now!"
+  },
+  {
+    "id": 4,
+    "points": 200,
+    "image": "./assets/images/beni_mazar/1.jpeg",
+    "title": "Al-Bahnasa",
+    "description": "Uncover the historic treasures of Al-Bahnasa, the land of martyrs and ancient ruins. Redeem your points now!"
+  }
+]

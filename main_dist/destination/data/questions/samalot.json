@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Where is Jabal al-Tair located?",
+    "options": [
+      "The west bank of the Nile River",
+      "The east bank of the Nile River",
+      "In the middle of the Western Desert",
+      "South of Asyut Governorate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is Jabal al-Tair also called 'Mountain of the Palm'?",
+    "options": [
+      "Because of a rare bird that lives in the area",
+      "Because of the impression of the Virgin Mary's palm on a rock in the mountain",
+      "Because it resembles a palm when viewed from afar",
+      "Because of a Pharaonic carving in the shape of a palm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who ordered the construction of the Church of the Virgin Mary at Jabal al-Tair?",
+    "options": [
+      "Emperor Constantine",
+      "Queen Cleopatra",
+      "Queen Helena",
+      "Queen Nefertiti"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In which century was the church at Jabal al-Tair built?",
+    "options": [
+      "The 2nd century AD",
+      "The 4th century AD",
+      "The 6th century AD",
+      "The 8th century AD"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is Jabal al-Tair considered a religious destination for Copts?",
+    "options": [
+      "Because it contains rare Christian icons",
+      "Because it was one of the stops on the Holy Family's journey",
+      "Because it is a site of daily miracles",
+      "Because it contains the oldest church in Egypt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the monastery at Jabal al-Tair?",
+    "options": [
+      "Monastery of Anba Antonios",
+      "Monastery of the Virgin Mary",
+      "Monastery of Anba Bishoy",
+      "Monastery of Saint Catherine"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When do Copts celebrate the Feast of the Virgin Mary at Jabal al-Tair?",
+    "options": ["In April", "In May", "In July", "In September"],
+    "answer": 2
+  },
+  {
+    "question": "What makes the Church of the Virgin Mary at Jabal al-Tair unique?",
+    "options": [
+      "It is the largest church in Egypt",
+      "It is carved inside the mountain",
+      "It overlooks the Red Sea",
+      "It contains rare mosaic paintings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the nearest train station to Jabal al-Tair?",
+    "options": [
+      "Minya Train Station",
+      "Mallawi Train Station",
+      "Samalut Train Station",
+      "Asyut Train Station"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the Egyptian government working to improve at Jabal al-Tair?",
+    "options": [
+      "Building new museums",
+      "Enhancing roads and services around the site",
+      "Creating luxury hotels inside the mountain",
+      "Expanding the church to become the largest church in Egypt"
+    ],
+    "answer": 2
+  }
+]

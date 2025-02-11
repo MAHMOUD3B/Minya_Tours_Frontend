@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Where are the Beni Hasan tombs located?",
+    "options": [
+      "On the west bank of the Nile River",
+      "On the east bank of the Nile River",
+      "North of Minya City",
+      "South of Cairo City"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "To which era do most of the Beni Hasan tombs date?",
+    "options": [
+      "The Old Kingdom",
+      "The Middle Kingdom",
+      "The New Kingdom",
+      "The Ptolemaic Era"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the prominent scenes depicted in the paintings in the Beni Hasan tombs?",
+    "options": [
+      "Military battles",
+      "Daily life activities such as hunting and farming",
+      "Coronation celebrations",
+      "Pyramid construction"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the governor of the 16th nome buried in the Beni Hasan tombs?",
+    "options": ["Amenemhat", "Khety", "Ramses II", "Khnumhotep"],
+    "answer": 2
+  },
+  {
+    "question": "What makes the tomb of Khnumhotep distinctive?",
+    "options": [
+      "Its unique architectural design",
+      "Paintings depicting foreign delegations offering gifts",
+      "Containing golden statues",
+      "Its war inscriptions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the architectural style of the Beni Hasan tombs?",
+    "options": [
+      "Open temples",
+      "Rock-cut tombs",
+      "Small pyramids",
+      "Mudbrick tombs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What do the paintings in the tomb of Baqet depict?",
+    "options": [
+      "Military training and war scenes",
+      "Royal coronation ceremonies",
+      "Scenes of hunting on land and sea",
+      "Funerary rituals"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the primary role of the Beni Hasan tombs?",
+    "options": [
+      "Exclusive burial site for kings",
+      "Necropolis for regional governors and high officials",
+      "Storage for animal mummies",
+      "Site for religious temples"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which inscriptions can be found in the Beni Hasan tombs?",
+    "options": [
+      "Hieroglyphic texts about daily life",
+      "Only religious spells",
+      "Greek poems",
+      "Pyramid construction instructions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How can the wall paintings in the Beni Hasan tombs be described?",
+    "options": [
+      "Simple and based on natural colors",
+      "Detailed and reflecting daily life and social customs",
+      "Restricted to religious rituals",
+      "Devoid of details"
+    ],
+    "answer": 2
+  }
+]

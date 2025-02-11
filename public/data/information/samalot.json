@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "image": "samalot/1.jpeg",
+    "title": "Geographical Location",
+    "description": "Located on the eastern bank of the Nile River, approximately 10 kilometers north of the city of Samalut, the mountain offers breathtaking views of the Nile, making it a unique destination for visitors."
+  },
+  {
+    "id": 2,
+    "image": "samalot/2.jpeg",
+    "title": "Historical Significance",
+    "tips": [
+      {
+        "one": "It is believed that the Holy Family (the Virgin Mary, the Child Jesus, and Saint Joseph the Carpenter) visited this site during their sacred journey to Egypt."
+      },
+      {
+        "two": "The mountain is also known as 'Gebel El-Kaf' (Mountain of the Palm) due to a legend that says the handprint of the Virgin Mary was imprinted on a rock while she was protecting her child from falling."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "samalot/3.jpeg",
+    "title": "Tourism Development",
+    "description": "The Egyptian government is working on developing the area into a global tourist destination by improving roads and services around the site."
+  },
+  {
+    "id": 4,
+    "image": "samalot/4.jpeg",
+    "title": "The Monastery of the Virgin Mary at Gebel El-Tair",
+    "tips": [
+      {
+        "one": "The church dates back to the 4th century AD and was built by Queen Helena, the mother of Emperor Constantine."
+      },
+      {
+        "two": "The church is built into the mountain, giving it the appearance of being carved out of the rock."
+      },
+      {
+        "three": "It is one of the most prominent landmarks of the mountain and contains ancient icons and altars."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "samalot/5.jpeg",
+    "title": "Religious Importance",
+    "tips": [
+      {
+        "one": "Gebel El-Tair is considered a pilgrimage site for Egyptian Copts, especially during the Feast of the Virgin Mary, celebrated in May each year."
+      },
+      {
+        "two": "Pilgrims visit the site for blessings and prayers, as it is regarded as a sacred place that was blessed by the visit of the Holy Family."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "samalot/6.jpeg",
+    "title": "Archaeological and Natural Significance",
+    "tips": [
+      {
+        "one": "In addition to its religious value, the mountain is renowned for its stunning natural scenery and its panoramic view of the Nile."
+      },
+      {
+        "two": "The site includes archaeological areas and inscribed rocks that date back to ancient times."
+      }
+    ]
+  }
+]

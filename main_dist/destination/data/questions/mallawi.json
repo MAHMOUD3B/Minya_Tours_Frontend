@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Where is the Tuna el-Gebel area located?",
+    "options": [
+      "East of Mallawi City",
+      "West of Mallawi City",
+      "North of Mallawi City",
+      "South of Mallawi City"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the deity worshipped in Tuna el-Gebel?",
+    "options": ["Osiris", "Ra", "Thoth", "Horus"],
+    "answer": 3
+  },
+  {
+    "question": "What do the catacombs in Tuna el-Gebel contain?",
+    "options": [
+      "Royal tombs",
+      "Mummies of sacred animals",
+      "Statues of the goddess Isis",
+      "Pottery tools"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What animals associated with the deity Thoth have mummies found in Tuna el-Gebel?",
+    "options": [
+      "Lions and vultures",
+      "Cows and cats",
+      "Baboons and ibis birds",
+      "Dogs and crocodiles"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the Egyptian priest whose tomb is one of the most famous in Tuna el-Gebel?",
+    "options": ["Petosiris", "Isadora", "Ahmose", "Akhenaten"],
+    "answer": 1
+  },
+  {
+    "question": "What distinguishes the tomb of Isadora in Tuna el-Gebel?",
+    "options": [
+      "Its unique architectural design",
+      "The presence of an influential Greek poetic inscription",
+      "Containing mummies of animals",
+      "Its Pharaonic paintings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "To which era does the tomb of Petosiris date back?",
+    "options": [
+      "The Old Kingdom",
+      "The Ptolemaic era",
+      "The Roman era",
+      "The New Kingdom"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the main purpose of the funerary wells in Tuna el-Gebel?",
+    "options": [
+      "Storing food",
+      "Entrances to tombs",
+      "Storing water",
+      "Residences for priests"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the main features depicted in the drawings of the tomb of Petosiris?",
+    "options": [
+      "Asian influence only",
+      "Traditional Egyptian style and Greek influence",
+      "Islamic character",
+      "Nubian character"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What makes Tuna el-Gebel a unique tourist destination?",
+    "options": [
+      "Its location in the middle of the desert",
+      "Containing landmarks that combine different eras",
+      "Having a large commercial market",
+      "Its proximity to Cairo"
+    ],
+    "answer": 2
+  }
+]
